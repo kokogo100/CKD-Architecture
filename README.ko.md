@@ -8,8 +8,8 @@
 <p align="center">
   <a href="./README.md"><img src="https://img.shields.io/badge/Language-English-0ea5e9?style=for-the-badge" alt="English"></a>
   <a href="./README.ko.md"><img src="https://img.shields.io/badge/언어-한국어_(Korean)-10b981?style=for-the-badge" alt="Korean"></a>
-  <a href="https://axnli.com"><img src="https://img.shields.io/badge/Created_by-AXNli_Inc.-6366f1?style=for-the-badge" alt="AXNli Inc."></a>
-  <a href="./LICENSE"><img src="https://img.shields.io/badge/License-Apache_2.0-f59e0b?style=for-the-badge" alt="Apache-2.0 License"></a>
+  <a href="https://axnli.com"><img src="https://img.shields.io/badge/Created_by-AXNli_Inc-6366f1?style=for-the-badge" alt="AXNli Inc."></a>
+  <a href="./LICENSE"><img src="https://img.shields.io/badge/License-MIT-f59e0b?style=for-the-badge" alt="MIT License"></a>
 </p>
 
 ---
@@ -167,4 +167,4 @@ sequenceDiagram
 
 * **창안 및 설계 (Originated by)**: **[주식회사 에이엑스엔엘아이 (`AXNli Inc.`)](https://axnli.com)**
 * **공식 웹사이트**: [https://axnli.com](https://axnli.com)
-* **라이선스**: Apache-2.0 License (© 2026 AXNli Inc.)
+* **라이선스**: MIT License (© 2026 AXNli Inc.)
